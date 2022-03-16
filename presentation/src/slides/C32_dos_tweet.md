@@ -1,0 +1,1 @@
+<div class="tweet" data-src="https://twitter.com/gcluley/status/1375172450644865026?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1375172450644865026%7Ctwgr%5E%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fwww.esecurityplanet.com%2Ftrends%2Ftwitter-cybersecurity%2F"></div>

@@ -1,0 +1,12 @@
+---
+import { fetchContent } from "vanil"
+import SlideLayout from "../layouts/SlideLayout.astro"
+
+const vanilLogo = fetchContent("../../public/assets/climate-partner.svg")[0]
+const slides = fetchContent('../slides/**/*.md')
+---
+<SlideLayout title="MyVanilProject">
+
+    {slides.map((vdom) => <section>{vdom}</section>)}
+
+</SlideLayout> 

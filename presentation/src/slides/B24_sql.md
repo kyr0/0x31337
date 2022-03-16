@@ -1,0 +1,1 @@
+### How to mitigate SQL injections?

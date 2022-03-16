@@ -1,0 +1,29 @@
+{
+  "name": "0x31337-presentation",
+  "version": "0.0.1",
+  "description": "Presentation of security vulnerabilities",
+  "scripts": {
+    "dev": "vanil dev",
+    "build": "vanil build",
+    "preview": "vanil preview",
+    "config": "vanil config",
+    "clean": "vanil clean"
+  },
+  "author": "Aron Homberg <info@aron-homberg>",
+  "license": "MIT",
+  "browserslist": [
+    "> 0.05%",
+    "not ie > 0"
+  ],
+  "vanil": {
+    "devOptions": {
+      "useOptimizer": true
+    }
+  },
+  "dependencies": {
+    "reveal.js": "^4.2.1",
+    "reveal.js-menu": "^2.1.0",
+    "reveal.js-plugins": "^4.1.5",
+    "vanil": "0.0.53"
+  }
+}
